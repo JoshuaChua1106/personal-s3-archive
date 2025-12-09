@@ -1,4 +1,4 @@
-# Personal S3 Archive
+# AWS Personal S3 Archive
 The personal S3 Archive project creates an AWS S3 bucket using Infrastructure as Code (IaC) via Terraform, which automatically moves files uploaded into the S3 bucket to Glacier Deep Archive.
 
 ## Table of Contents
