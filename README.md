@@ -36,11 +36,15 @@ https://aws.amazon.com/s3/pricing/?nc=sn&loc=4
 ## Implementation
 ### AWS configuration
 First ensure AWS CLI is configured correctly on the system.
+
 ```aws configure```
 
 ### Apply main.tf with Terraform
 The S3 bucket can be setup by running the following:
+
 ```terraform init```
+
 ```terraform plan```
+
 ```terraform apply```
 
